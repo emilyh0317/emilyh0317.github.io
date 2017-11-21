@@ -1,0 +1,46 @@
+body{
+	background-color: #ADD8E6;
+	color: white;
+}
+	
+header{
+	width: 750px;
+	font-family: arial;
+	font-size: 72pt;
+	margin: auto;
+}
+
+#col1{
+	font-family: arial;
+	font-size: 24pt;
+	background-color: #DB7093;
+	float: left;
+	margin: left;
+	width:60%;
+	padding-bottom: 30px;
+}
+
+#col2{
+	background-color: orange;
+	font-family: arial;
+	font-size:24pt;
+	float: right;
+	margin: right;
+	width:40%;	
+	padding-bottom: 197px;
+	
+}
+#healing {
+	width: 174px;
+	background-color: green;
+	font-family: arial;
+	font-size: 10pt;
+	height: 50px;
+	text-indent: 10px;
+	display: inline-block;
+
+}
+
+#healing:hover {
+    background-color: #A9A9A9;
+    color: #8B008B;
